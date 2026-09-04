@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6350ec60c66a21f42a14445eb7fb6bd7, type: 3}
+  m_Name: airconOFF
+  m_EditorClassIdentifier: 
+  _saveStore: {fileID: 11400000, guid: 7447320e75a37da43a289bcf81dfa801, type: 2}
+  _gimmick: {fileID: 11400000, guid: f288be8a62f4f294f911521584015aec, type: 2}
+  _expectedValue: 1
+  _mode: 2

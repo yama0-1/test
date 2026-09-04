@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 57fa1110becd2dc4687cd46eb95d1d0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _targetViewpoint: {instanceID: 0}
+  - channel: {fileID: 11400000, guid: ca9466eacd2d7844699e45f4378c3dde, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
