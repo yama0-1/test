@@ -1,52 +1,41 @@
-# --- Unity Standard Ignores ---
-*[Ll]ibrary/
-*[Tt]emp/
-*[Oo]bj/
-*[Bb]uild/
-*[Bb]uilds/
-*[Ll]ogs/
-*[Uu]ser[Ss]ettings/
-*[Mm]emoryCaptures/
-*[Rr]ecordings/
-
-# --- Visual Studio & Project Files ---
-*.csproj
+```
+# Unity specific ignores
+Library/
+Temp/
+Obj/
+Build/
+Logs/
 *.unityproj
 *.sln
-*.suo
-*.tmp
+*.csproj
 *.user
 *.userprefs
 *.pidb
 *.booproj
 *.svd
+*.meta
+*.prefab
+*.a
+*.so
+*.jar
+*.bin
 *.pdb
-*.mdb
-*.opendb
-*.VC.db
-*.vs/
-*.vsconfig/
-
-# --- Exclude Heavy & External Assets ---
-*/Assets/WhitePorcelainDishSetDemo*
-*/Assets/_Heathen Engineering*
-*/Assets/asset_store*
-*/Assets/Cowboy Hat*
-*/Assets/Cuisine Studio*
-*/Assets/DevDen Arch Viz Scotland URP*
-*/Assets/devotid*
-*/Assets/Hand Paint Flowers*
-*/Assets/pipe*
-*/Assets/SE*
-*/Assets/ExternalDependencyManager*
-*/Assets/GoogleMobileAds*
-*/Assets/Plugins*
-*/Assets/TutorialInfo*
-*/Assets/Alstrainfinite*
-*/Assets/Font*
-*/Assets/Icon*
-*/Assets/Images*
-*/Assets/Keypad*
-*/Assets/TextMesh Pro*
-*/Assets/Alstrainfinite*
-*/Assets/Materials*
+*.dll
+*.lib
+*.obj
+*.exe
+*.exp
+*.ilk
+*.manifest
+*.resx
+*.unitypackage
+[Thumbs.db](file:///Thumbs.db)
+.DS_Store
+*.tmp
+*.temp
+*.log
+.vs/
+.idea/
+*.swp
+*.swo
+```
