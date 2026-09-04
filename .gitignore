@@ -4,7 +4,7 @@ Library/
 Temp/
 Obj/
 Build/
-Builds/
+Logs/
 *.unityproj
 *.sln
 *.csproj
@@ -13,24 +13,29 @@ Builds/
 *.pidb
 *.booproj
 *.svd
-*.cache
 *.meta
-*.log
+*.prefab
+*.a
+*.so
+*.jar
+*.bin
+*.pdb
+*.dll
+*.lib
+*.obj
+*.exe
+*.exp
+*.ilk
+*.manifest
+*.resx
 *.unitypackage
-[5789].tmp
-[5789]-conflicted-files.txt
-
-# Visual Studio Code
-.vscode/
-
-# Build results
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
-
-# Environment specific
-.env
-.env.local
-.env.*
+[Thumbs.db](file:///Thumbs.db)
+.DS_Store
+*.tmp
+*.temp
+*.log
+.vs/
+.idea/
+*.swp
+*.swo
 ```
